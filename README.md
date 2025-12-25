@@ -13,8 +13,7 @@ Some game play featuers:
 - Every shp has unique maxxed out engines and shielding
 - Photon Bursts are the Anti-Fighter weapons, does direct-point shield damage
 - Plasma Pulse is most powerful but slow, does half-splash shield damage
-- Lasers do great agains shields but have a high miss rat, does full-splass shield damage
-- Mines do more powerful damage
-- Missiles are more powerful
+- Lasers do great against shields but have a high miss rate, does full-splash shield damage
+- Mines and Missiles do more powerful damage
 
 Enjoy.
