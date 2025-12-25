@@ -1,8 +1,8 @@
 # Interstellar Pilot2: A.C.E
 
-## Archer's Custom Edition
+## Archers Custom Edition
 
-This is edition of Interstealler Pilot 2 is a personl mod editio.
+This edition of Interstealler Pilot 2 is a personl mod edition.
 
 This mod is a bit more closer to the original stock game-play and feel, however with less micro-managing each ship detail for more fun game-play.
 
